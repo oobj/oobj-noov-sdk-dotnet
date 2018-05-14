@@ -1,0 +1,223 @@
+﻿<nfeProc versao="3.10" xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe>
+    <infNFe Id="NFe43161007385111000102555010524909421946972541" versao="3.10">
+      <ide>
+        <cUF>43</cUF>
+        <cNF>94697254</cNF>
+        <natOp>REVENDA DE MERCADORIAS SIMPLES NACIONAL - SC</natOp>
+        <indPag>0</indPag>
+        <mod>55</mod>
+        <serie>501</serie>
+        <nNF>52490942</nNF>
+        <dhEmi>2016-10-25T14:09:49-02:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>4314902</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>1</cDV>
+        <tpAmb>2</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>1</indFinal>
+        <indPres>1</indPres>
+        <procEmi>0</procEmi>
+        <verProc>Oobj-DFe</verProc>
+      </ide>
+      <emit>
+        <CNPJ>07385111000102</CNPJ>
+        <xNome>E-Sales Solucoes Oobj</xNome>
+        <enderEmit>
+          <xLgr>PROF ALGACYR MUNHOZ MADER</xLgr>
+          <nro>2800</nro>
+          <xBairro>CIC</xBairro>
+          <cMun>4314902</cMun>
+          <xMun>Porto Alegre</xMun>
+          <UF>RS</UF>
+          <CEP>81310020</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>4121098000</fone>
+        </enderEmit>
+        <IE>0963233556</IE>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>07385111000102</CNPJ>
+        <xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+        <enderDest>
+          <xLgr>AV. FRANÇA</xLgr>
+          <nro>1162</nro>
+          <xBairro>NAVEGANTES</xBairro>
+          <cMun>4314902</cMun>
+          <xMun>PORTO ALEGRE</xMun>
+          <UF>RS</UF>
+          <CEP>44096486</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>7536230233</fone>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>0963233556</IE>
+        <IM>InsMun</IM>
+        <email>warley@warley.com.br</email>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>4450</cProd>
+          <cEAN/>
+          <xProd>SISTEMA DE LINHA DE VIDA HORIZONTAIS RETRÁTEIS DE FÁCIL INSTALAÇÃO COM CAPACIDADE PARA DOIS OPERÁRIOS 18,3M DE CABO DE A</xProd>
+          <NCM>44170010</NCM>
+          <CEST>1300402</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>PÇ</uCom>
+          <qCom>1</qCom>
+          <vUnCom>4298.43</vUnCom>
+          <vProd>4298.43</vProd>
+          <cEANTrib/>
+          <uTrib>PÇ</uTrib>
+          <qTrib>1</qTrib>
+          <vUnTrib>4298.43</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>-1023368</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>0.00</vTotTrib>
+          <ICMS>
+            <ICMS00>
+              <orig>1</orig>
+              <CST>00</CST>
+              <modBC>0</modBC>
+              <vBC>4298.43</vBC>
+              <pICMS>4</pICMS>
+              <vICMS>171.94</vICMS>
+            </ICMS00>
+          </ICMS>
+          <PIS>
+            <PISOutr>
+              <CST>50</CST>
+              <vBC>4298.43</vBC>
+              <pPIS>1.65</pPIS>
+              <vPIS>70.92</vPIS>
+            </PISOutr>
+          </PIS>
+          <COFINS>
+            <COFINSOutr>
+              <CST>50</CST>
+              <vBC>4298.43</vBC>
+              <pCOFINS>7.60</pCOFINS>
+              <vCOFINS>326.68</vCOFINS>
+            </COFINSOutr>
+          </COFINS>
+        </imposto>
+        <infAdProd>STALAÇÃO COM CAPACIDADE PARA DOIS OPERÁRIOS 18,3M DE CABO DE AÇO - DBI REF:7605060 (CAPITAL SAFETY) - (COR: PRETO CLARO, TAM: ÚNICO))</infAdProd>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>4298.43</vBC>
+          <vICMS>171.94</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vProd>4298.43</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vPIS>70.92</vPIS>
+          <vCOFINS>326.68</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>4298.43</vNF>
+          <vTotTrib>0.00</vTotTrib>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>1</modFrete>
+        <vol>
+          <qVol>1</qVol>
+          <esp>CAIXAS</esp>
+        </vol>
+      </transp>
+      <infAdic>
+        <infCpl>\nNOTA FISCAL DE ENTRADA EMITIDA E DEVOLVIDA REFERENTE À NOTA FISCAL 13973.\n Nº PED. INTERNO:72011\n Nº PED. CLIENTE:1023368\nSTALAÇÃO COM CAPACIDADE PARA DOIS OPERÁRIOS 18,3M DE CABO DE AÇO DBI REF:7605060 (CAPITAL SAFETY) (COR: PRETO CLARO, TAM: ÚNICO))\n</infCpl>
+      </infAdic>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+        <Reference URI="#NFe43161007385111000102555010524909421946972541">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+          <DigestValue>LJEbYAeyejpd8GEN0e/K1MHKukA=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>
+        rUqElLOvjKITuY8xC+LSq9X/m9o3qpv4SjQaBbsJY9NGZxRpIIz+10edoQG8yLqmHLPKnWOjyrdb
+        nV29HJMFAoB+bvoFInDOOatOCUpL6Y8wUWF6l9QaI0fTzQf7N2NmMdcoueLT7jlptdAP3Ln5uaRF
+        myVzQYzUKdKtZqr8IdWyyRjP2zst7s4+rRzPo/quZVeNMNQk1+mxbdMWMduIT3wi4g8gkgiFNRZV
+        EE5ZrTgg+CTGOVk85V9rlREcxaQLcD1h428cj/JveS1G52vmZCO7xk9LJAdOeF5Zg7qElAWeRClD
+        OJzQMvXQToXGdRFwCKffGkeE/I+KAd8t4PoE7g==
+      </SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>
+            MIIIWzCCBkOgAwIBAgIQTAh4G3Y0AqYQIIvGJY35KjANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+            EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+            IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc0MB4X
+            DTE2MDMxODAwMDAwMFoXDTE3MDMxNzIzNTk1OVowgfoxCzAJBgNVBAYTAkJSMRMwEQYDVQQKFApJ
+            Q1AtQnJhc2lsMQswCQYDVQQIEwJSUzEVMBMGA1UEBxQMUE9SVE8gQUxFR1JFMTYwNAYDVQQLFC1T
+            ZWNyZXRhcmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsUDVJG
+            QiBlLUNOUEogQTExJTAjBgNVBAsUHEF1dGVudGljYWRvIHBvciBBUiBTRVNDT04gUlMxOzA5BgNV
+            BAMTMkUgU0FMRVMgU09MVUNPRVMgREUgSU5URUdSQUNBTyBMVERBOjA3Mzg1MTExMDAwMTAyMIIB
+            IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv00YfCgPyQyXDRqpPZv1NW8+KP37NGkvd2gk
+            V0QQ4OyaNJG6WSSnio5fS64ppH8Qf273J0lGatjhbSnw44VXyVhf+fkYbmKgu9EAc9mwHK8bO59z
+            k/N6Z03TqeVC+YebsE5XfD2xD22DKmsOTZq7PjiBc0o0eXYnWz2v5Rk8f2bXfRRA9dy77crA4NDW
+            aV0qi7r9j068p14QtCNv7XLT9YffjZyDu9sdvs9DbZ6EXq0W9hmoEJsTvO6HI6K0p7vkEDKiIZIJ
+            AohtnuIymZmxnO+yY+b3DVSvGgA8XqCSfQ4GJakxXnfou3qLjbZsnIimIwEMCyP1GRF95wTLEf/d
+            uwIDAQABo4IDXDCCA1gwgcEGA1UdEQSBuTCBtqA9BgVgTAEDBKA0BDIwNjExMTk4MzAwNDI0NjIx
+            MDAyMDAwMDAwMDAwMDAwMDAwMDcwODk2NzEyNDdTSlNSU6AoBgVgTAEDAqAfBB1BTEVYQU5EUkUg
+            U0lMVkVJUkEgRE9TIFNBTlRPU6AZBgVgTAEDA6AQBA4wNzM4NTExMTAwMDEwMqAXBgVgTAEDB6AO
+            BAwwMDAwMDAwMDAwMDCBF2FsZXhhbmRyZUBlc2FsZXMuY29tLmJyMAkGA1UdEwQCMAAwHwYDVR0j
+            BBgwFoAULpHq1m3lslmC3DiFKXY0FlY80D4wDgYDVR0PAQH/BAQDAgXgMH8GA1UdIAR4MHYwdAYG
+            YEwBAgEMMGowaAYIKwYBBQUHAgEWXGh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIv
+            cmVwb3NpdG9yaW8vZHBjL0FDX0NlcnRpc2lnbl9SRkIvRFBDX0FDX0NlcnRpc2lnbl9SRkIucGRm
+            MIIBFgYDVR0fBIIBDTCCAQkwV6BVoFOGUWh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20u
+            YnIvcmVwb3NpdG9yaW8vbGNyL0FDQ2VydGlzaWduUkZCRzQvTGF0ZXN0Q1JMLmNybDBWoFSgUoZQ
+            aHR0cDovL2ljcC1icmFzaWwub3V0cmFsY3IuY29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0NlcnRp
+            c2lnblJGQkc0L0xhdGVzdENSTC5jcmwwVqBUoFKGUGh0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFz
+            aWwuZ292LmJyL2xjci9DZXJ0aXNpZ24vQUNDZXJ0aXNpZ25SRkJHNC9MYXRlc3RDUkwuY3JsMB0G
+            A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBmwYIKwYBBQUHAQEEgY4wgYswXwYIKwYBBQUH
+            MAKGU2h0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vY2VydGlm
+            aWNhZG9zL0FDX0NlcnRpc2lnbl9SRkJfRzQucDdjMCgGCCsGAQUFBzABhhxodHRwOi8vb2NzcC5j
+            ZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQCT2nvMeuzFmkMeZRnKEcggeAPwTlSA
+            GsPx3BWjbxHiJr0h+COQ+CiOgD57EekIZTD7dAcwpa2mOJvbe1Mdanm4x1qomZTtZupad42QikOG
+            jV1TM7sFGsO/txNlBQSIBj/zyM0BjToLCnuSpnu4du6/E6JjR97HEafHr8VPoRNGpcUFMKk0p6fA
+            tcvcKaUQrKx31AubIbvEmzMqylexx3mHHrRmG7JVr9F9di93yA2RdmqV+M/6HtqOUOv4kr4sgyLW
+            q8ruKW9aiCWdiXMd5JG1SLIH1hF96oECHGoIyD0FfepGkSBgmqn4g9ckvLu7o1VDOHimCMAKfkJj
+            8RA27SeTiuOnlTqTYySkOSW1kZ/iSRNW3dBrIItLVln66zO9thrjuL44oovZ0YJR/eP+2F+3UWFl
+            tqIc9J7PqRuMvf6r/0nClIaQHN74bofr/7jeGyf7mr+/sjMCvjfohfEZqJTcshEVrYJpC3e9uEQu
+            Kh8sA2uRcn6gYI48uBkRKBDVxWZ/lbrOpIlmfVRDbzdITxLuPEhT40Eq8YyCH+qcdhhY38hP9AL+
+            7e38w4ktmMbKI9g+MZJlPwJkAe+/XUy24X3/BBaMpNEgV2LMhmXdnUfBzSLmLmOgAehnWFHc/ifx
+            HFa9JLQTXO/gnR74fvsHud5TPesyQEN0qtUTFCU9Hp8qSA==
+          </X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="3.10">
+    <infProt Id="ID143160001434641">
+      <tpAmb>2</tpAmb>
+      <verAplic>RS201603081012</verAplic>
+      <chNFe>43161007385111000102555010524909421946972541</chNFe>
+      <dhRecbto>2016-10-25T14:20:16-02:00</dhRecbto>
+      <nProt>143160001434641</nProt>
+      <digVal>LJEbYAeyejpd8GEN0e/K1MHKukA=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>
